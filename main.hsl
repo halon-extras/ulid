@@ -1,1 +1,1 @@
-import { ulid } from "extras://ulid.hsl";
+import { ulid } from "./ulid.hsl";
