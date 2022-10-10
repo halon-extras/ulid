@@ -26,7 +26,7 @@ These functions needs to be [imported](https://docs.halon.io/hsl/structures.html
 
 **Returns** ULID as a string
 
-**Example **
+**Example**
 
 ```
 echo ulid(); // 01EH88W9FYYEQ2ANNRF5PCQVPM
