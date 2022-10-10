@@ -29,5 +29,7 @@ These functions needs to be [imported](https://docs.halon.io/hsl/structures.html
 **Example**
 
 ```
+import { ulid } from "extras://ulid";
+
 echo ulid(); // 01EH88W9FYYEQ2ANNRF5PCQVPM
 ```
